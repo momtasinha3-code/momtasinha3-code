@@ -3,6 +3,8 @@ BBA (IBM) Student
 Interested in Business, Marketing & Technology
  Exploring Data, Digital Marketing & Business Strategies
 About Me
+<img width="1190" height="821" alt="17779689936583033344084983004633" src="https://github.com/user-attachments/assets/ed30c24d-ccf2-41ee-bd4e-fbecf240f028" />
+
 I am a BBA (IBM) student passionate about understanding how business and technology work together.
 I enjoy learning new concepts, working on creative ideas, and building skills that can be applied in real-world situations.
  Skills & Tools
